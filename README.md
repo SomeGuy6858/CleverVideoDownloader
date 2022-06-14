@@ -1,4 +1,4 @@
-# CleverVideoDownloader
+# SMPLE Downloader
 
 #About
   This is a simple python based program that can download and compile both audio and video from most videos on YouTube

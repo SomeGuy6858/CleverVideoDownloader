@@ -51,10 +51,11 @@ while True:
             os.rename(out_file, newFileVideo)
             VideoName = os.path.basename(newFileVideo)
             AudioName = os.path.basename(newFileAudio)
-            input_video = ffmpeg.input(VideoName)
-            input_audio = ffmpeg.input(AudioName)
+            input_video = ffmpeg.input(values["-FOLDER-"]+ "\\" + VideoName)
+            input_audio = ffmpeg.input(values["-FOLDER-"]+ "\\" +AudioName)
             OutPath = values["-FOLDER-"]
             print(OutPath)
+            print(VideoName)
             ffmpeg.concat(input_video, input_audio, v=1, a=1).output(OutPath + "\\" + "compiled" + VideoName).run()
 
     if event == "Cancel":

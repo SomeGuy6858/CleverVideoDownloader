@@ -20,3 +20,4 @@
   https://www.ffmpeg.org/
   
   
+###This is an old version and may no longer work as intended

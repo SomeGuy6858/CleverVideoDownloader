@@ -19,5 +19,3 @@
   ffmpeg will come packaged within the precompiled folder, however I encourage you to go to their official website and install it yourself,
   https://www.ffmpeg.org/
   
-  
-###This is an old version and may no longer work as intended

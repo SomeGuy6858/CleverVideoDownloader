@@ -1,0 +1,5 @@
+In order for the program to work properly you will need to extract these executables to the same folder that the main YTDlder.exe (or YTDlder.py) is.
+
+Go support the original developers and view the source code:
+
+https://www.ffmpeg.org/

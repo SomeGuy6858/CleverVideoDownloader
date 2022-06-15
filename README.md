@@ -14,7 +14,8 @@
   https://www.virustotal.com/gui/file/37afbd5cbda0bed6d9ac0a0782b836efe9ba09942dd89f1b17e7d65828d1dbaa?nocache=1
   If you don't feel safe installing the exe than you can just install the .py and run it yourself!
   
- #PREREQUISITES
+ #PREREQUISITES:
+ 
   ffmpeg will come packaged within the precompiled folder, however I encourage you to go to their official website and install it yourself,
   https://www.ffmpeg.org/
   

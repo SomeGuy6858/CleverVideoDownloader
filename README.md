@@ -1,9 +1,11 @@
 # SMPLE Downloader
 
-#About
+#About:
+
   This is a simple python based program that can download and compile both audio and video from most videos on YouTube
   
-#Common Issues
+#Common Issues:
+
   If the video is age restricted you might not be able to download any content
   
   If you are using Windows Defender the file will most likely be marked as a virus on launch, this is due to the lack of certification and the fact that windows just

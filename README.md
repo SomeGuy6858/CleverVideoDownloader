@@ -19,3 +19,5 @@
   ffmpeg will come packaged within the precompiled folder, however I encourage you to go to their official website and install it yourself,
   https://www.ffmpeg.org/
   
+  You will also need an application like winrar or 7zip to extract all compressed files
+  
